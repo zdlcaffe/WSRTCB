@@ -46,11 +46,10 @@ cd ${WSRTCB_root/Text_Demo}
 python Demo_region_word.py
 ```
 ## 3.5 There are some samples:
-
-![image](https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_0059_det.jpg)
-![image](https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_0616_det.jpg)
-![image](https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_1846_det.jpg)
-![image](https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_2257_det.jpg)
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_0059_det.jpg" width=75%></div>
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_0616_det.jpg" width=75%></div>
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_1846_det.jpg" width=75%></div>
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Text_detection_Demo/save_detection/det_result/IMG_2257_det.jpg" width=75%></div>
 
 # 4. Training
 Download the pretrained model [vgg16convs.caffemodel](https://pan.baidu.com/s/1IEt48THcdmncH2zoeokypA), and put it to 
