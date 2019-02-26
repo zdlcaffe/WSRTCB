@@ -28,11 +28,10 @@ cd ${WSRTCB_root/Train_WSR_TCB/demo}
 python Demo.py  
 ```
 ## 3.2 There are some samples:  
-
-![image](https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_0059.png)
-![image]( https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_0616.png)
-![image]( https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_1846.png)
-![image](https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_2257.png) 
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_0059.png" width=75%></div>
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_0616.png" width=75%></div>
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_1846.png" width=75%></div>
+<div align=center><img src="https://github.com/zdlcaffe/WSRTCB/blob/master/Train_WSR_TCB/data/Test_results/TD_MKEI_Word_MSRA-TD500/IMG_2257.png" width=75%></div>
 
 ## 3.3 Threshold WSR/TCB maps:
 You can do as follow:
