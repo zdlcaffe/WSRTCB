@@ -1,5 +1,3 @@
-Code for the Multimedia Tools and Applications paper: Scene Text Detection with Fully Convolutional Neural Networks, by Zhandong Liu, Wengang Zhou and Houqiang Li.  
-
 # 1. Introduction
 This project includes the text detection source code and trained model about the word stroke region and text center block.
 # 2. Installation
@@ -75,5 +73,17 @@ You can do as follow:
 ```
 cd ${WSRTCB_root/Train_WSR_TCB}  
 sh ./train.sh 
+```
+## Citation
+Use this bibtex to cite this repository:
+```
+@article{liu2019scene,
+  title={Scene text detection with fully convolutional neural networks},
+  author={Liu, Zhandong and Zhou, Wengang and Li, Houqiang},
+  journal={Multimedia Tools and Applications},
+  pages={1--23},
+  year={2019},
+  publisher={Springer}
+}
 ```
 # Acknowlegement
